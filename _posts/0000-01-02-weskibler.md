@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Feel the force surging thru my veins!
 Use the left arrow to go back!
